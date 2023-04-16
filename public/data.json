@@ -20,6 +20,13 @@
       "description": "Eu farei todas as missões de mundo - Preço por Missão / I'll do all the world missions - Price per Mission",
       "price": 10.00,
       "duration": "1 day / 1 dia"
+    }, 
+    {
+      "id": 4,
+      "name": "TCG",
+      "description": "Eu jogarei as partidas de TCG que não estiverem completadas - Preço por Partida / I'll play the TCG matches that aren't completed - Price per Match",
+      "price": 3.00,
+      "duration": "1 day / 1 dia"
     }
   ],
   "regions": [
