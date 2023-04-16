@@ -16,7 +16,7 @@ export default function Home() {
 
       <main className="container py-2">
 
-        <h1 className="text-6xl font-bold mb-4 text-pink-400">Hexglyph Genshin Services</h1>
+        <h1 className="text-6xl font-bold mb-4 text-pink-100">Hexglyph Genshin Services</h1>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-8 text-pink-500">
           <div className="border-l-4 border-pink-100 p-2">
@@ -57,12 +57,6 @@ export default function Home() {
             <Image src="/logo.png" alt="hexglyph Logo" className="h-4 ml-2" width={16} height={20} />
           </a>
         </div>
-        <div>
-          <p>
-            art by u/Sevenix2
-          </p>
-        </div>
-
       </footer>
     </div>
   );
