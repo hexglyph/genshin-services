@@ -25,3 +25,20 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/*
+html,
+body {
+  background-image: url("/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Helvetica", sans-serif;
+}
+
+.container {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+}
+*/

@@ -1,0 +1,86 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Arrume minha conta / Fix my Account",
+      "description": "Eu vou arrumar a sua conta, montar um time bom, upar corretamente seus personagens e armas, para assim você conseguir jogar com mais facilidade e se divertir mais! / I'll fix your account, build a good team, level up your characters and weapons correctly, so you can play more easily and have more fun!",
+      "price": 200.00,
+      "duration": "30 days / 30 dias"
+    },
+    {
+      "id": 2,
+      "name": "Babá de conta / Account Baby Sitting",
+      "description": "Eu vou logar na sua conta todos os dias, fazer todas as missões diárias, gastar sua resina diária, fazer os Bosses semanais, entrar no seu Bule para resgastar os pontos e completar o Passe / I'll log in your account every day, do all the daily missions, spend your daily resin, do the weekly Bosses, enter your Bule to redeem the points and complete the Pass",
+      "price": 75.00,
+      "duration": "30 days / 30 dias"
+    }, 
+    {
+      "id": 3,
+      "name": "Missões de Mundo / World Missions",
+      "description": "Eu farei todas as missões de mundo / I'll do all the world missions",
+      "price": 10.00,
+      "duration": "1 day / 1 dia"
+    }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "name": "Mondstadt",
+      "price": 150.00,
+      "subregions": [
+        {
+          "id": 1,
+          "name": "Dragonspine",
+          "price": 50.00
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Liyue",
+      "price": 200.00,
+      "subregions": [
+        {
+          "id": 1,
+          "name": "The Chasm / Despenhadeiro",
+          "price": 50.00
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Inazuma",
+      "price": 200.00,
+      "subregions": [
+        {
+          "id": 1,
+          "name": "Enkanomiya",
+          "price": 50.00
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sumeru",
+      "price": 275.00,
+      "subregions": [
+        {
+          "id": 1,
+          "name": "Forest / Floresta",
+          "price": 100.00
+        },
+        {
+          "id": 1,
+          "name": "Desert / Deserto",
+          "price": 100.00
+        },
+        {
+          "id": 1,
+          "name": "Caves / Cavernas",
+          "price": 75.00
+        }
+      ]
+    }
+  ]
+}
+
